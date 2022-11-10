@@ -10,7 +10,7 @@
 Click to purchase from the Adafruit Shop:
 - [Adafruit Micro-Lipo Charger for LiPo/LiIon Batt w/MicroUSB Jack - v1](https://www.adafruit.com/product/1904)
 - [Adafruit Micro Lipo - USB LiIon/LiPoly charger - v1](https://www.adafruit.com/product/1304)
-- [Adafruit Micro Lipo - USB LiIon/LiPoly charger - v2] (https://www.adafruit.com/product/1304)
+- [Adafruit Micro Lipo - USB LiIon/LiPoly charger - v2](https://www.adafruit.com/product/1304)
 - [Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charger - v1](https://www.adafruit.com/product/1905)
 - [Adafruit LiIon/LiPoly Backpack Add-On for Pro Trinket/ItsyBitsy](https://www.adafruit.com/product/2124)
 - [Adafruit Micro-Lipo Charger for LiPoly Batt with USB Type C Jack](https://www.adafruit.com/product/4410)
